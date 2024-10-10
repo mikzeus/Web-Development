@@ -1,1 +1,23 @@
 /* Write your code here: */
+
+h1,h2{
+    color: rebeccapurple;
+}
+
+.box > p{
+    color: firebrick;
+}
+.box li{
+    color: blue;
+}
+.done{
+    color: rgb(104, 193, 15);
+}
+ul p.done {
+    font-size: 2rem
+  }
+  
+  body>p{
+    color: darkgoldenrod;
+    font-size: 2rem;
+  }
